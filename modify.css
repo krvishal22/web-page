@@ -1,0 +1,38 @@
+.container-fluid{
+    padding: 70px 0px 0px 0px;
+}
+#row1,#row3{
+    background-color:rgb(29, 27, 27);
+}
+#row2{
+    background-color: white;
+}
+#row4{
+    background-color: white;
+    text-align: center;
+}
+#row5{
+    background-color: rgb(120, 187, 196);
+    margin-top: 20px;
+
+}
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+} 
+#v1,#v2,#v3,#v4{
+    border:  1px solid rgb(54, 43, 43);
+    
+}
+.xyz
+{
+    color: white;
+}
+.def{
+    color: rgb(75, 194, 105);
+}
+.pq
+{
+    color: rgb(29, 27, 27);
+}
